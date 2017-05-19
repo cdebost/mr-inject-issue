@@ -2,7 +2,7 @@
     "name": "montage-require-issues",
     "version": "0.1.0",
     "dependencies": {
-        "montage": "16.0.x"
+        "montage": "montagejs/montage#master"
     },
     "devDependencies": {
         "montage-testing": "~0.4.0"
