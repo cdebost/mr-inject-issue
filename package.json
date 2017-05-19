@@ -1,0 +1,18 @@
+{
+    "name": "montage-require-issues",
+    "version": "0.1.0",
+    "dependencies": {
+        "montage": "16.0.x"
+    },
+    "devDependencies": {
+        "montage-testing": "~0.4.0"
+    },
+    "mappings": {
+        "somepackage": "./somepackage"
+    },
+    "exclude": [
+        "run-tests.html",
+        "test"
+    ],
+    "bundle": [ "ui/main.reel" ]
+}
